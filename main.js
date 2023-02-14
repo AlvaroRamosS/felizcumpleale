@@ -10,9 +10,8 @@ $(document).ready(function () {
 
 
 
-$("#continue").click(function (e) { 
+$("#thankyou").click(function (e) { 
     e.preventDefault();
-
-    $( "#hidden" ).show();
+    alert("De nada uwu");
     
 });
