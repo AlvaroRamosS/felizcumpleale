@@ -1,11 +1,18 @@
-function noclick(){
-    alert('I told you not to click reeeee');
-}
 
 
-$("#do").click(function (e) { 
+$(document).ready(function () {
+    
+    $( "#hidden" ).hide();
+
+
+});
+
+
+
+
+$("#continue").click(function (e) { 
     e.preventDefault();
 
-    alert('yess that felt good');
+    $( "#hidden" ).show();
     
 });
