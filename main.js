@@ -8,7 +8,7 @@ $(document).ready(function () {
         
     });
 
-    $("#pizza").click(function (e) { 
+    $("#sorpresa").click(function (e) { 
         
         alert("Pero espera! Eso no es todo! Si le dices a Álvaro el código secreto 'Me pica la cola' serás ganadora de una rascadita gratis! Por cierto te amo c:");
         showMenu(true);
