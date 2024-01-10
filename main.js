@@ -10,7 +10,7 @@ $(document).ready(function () {
 
     $("#pizza").click(function (e) { 
         
-        alert("A... quedaste... na no te creas, si dices el código secreto 'pinche akai quiero pizza ya' y yo te la mando. Alternativamente, cuando nos veamos yo la picho c:");
+        alert("Pero espera! Eso no es todo! Si le dices a Álvaro el código secreto 'Me pica la cola' serás ganadora de una rascadita gratis! Por cierto te amo c:");
         showMenu(true);
     });
 
